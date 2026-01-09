@@ -2,6 +2,7 @@ class Solution {
 public:
     int findPeakElement(vector<int>& a) {
         int n=a.size();
+        if(n==1) return 0;
         int srt=0;
         int end=n-1;
         while(srt<=end)
