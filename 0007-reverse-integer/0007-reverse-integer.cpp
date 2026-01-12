@@ -1,18 +1,26 @@
 class Solution {
 public:
     int reverse(int x) {
-        int ans = 0; 
-        while (x != 0) {
-            int digit = x % 10; 
-            
-           
-            if ((ans > INT_MAX / 10) || (ans < INT_MIN / 10)) {
-                return 0; 
-            }
-            
-            ans = ans * 10 + digit; 
-            x = x / 10; 
+        int n=x;
+
+        string a=to_string(x);
+        long long b;
+
+        if(n>0)
+        {
+           std::reverse(a.begin(),a.end());
         }
-        return ans; 
+        else
+        {
+
+           std::reverse(a.begin()+1,a.end());  
+        }
+
+        b = stoll(a);
+
+        if(b>INT_MAX || b<INT_MIN) return 0;
+        else return (int)b;
+
+        
     }
 };
