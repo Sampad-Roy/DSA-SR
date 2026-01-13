@@ -1,18 +1,35 @@
 class Solution {
 public:
     bool isPalindrome(int x) { 
-
-        string a=to_string(x);
-        std::reverse(a.begin(),a.end());
-        int b=stoll(a);
-        if(x==b)
-        {
-            return true;
-        }
-        else
+        
+        if(x<0)
         {
             return false;
         }
+        else
+        {
+          long long ans=0;
+          int test=x;
+          while(x>0)
+          { 
+            if(ans>=INT_MAX/10)
+            {
+                if(ans==x) return true;
+                else return false;
+            }
+            if(ans<=INT_MIN/10) 
+            {
+                if(ans==x) return true;
+                else return false;
+            }
+            ans=ans*10 +(x%10);
+            x/=10;
+          }
+          if(ans==test) return true;
+          else return false;     
+          
+        }
+       
         
         
     }
