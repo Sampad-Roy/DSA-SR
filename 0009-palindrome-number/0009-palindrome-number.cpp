@@ -3,7 +3,6 @@ public:
     bool isPalindrome(int x) { 
 
         string a=to_string(x);
-        if(a[0]=='-') return false;
         std::reverse(a.begin(),a.end());
         int b=stoll(a);
         if(x==b)
