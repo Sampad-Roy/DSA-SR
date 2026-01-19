@@ -8,7 +8,7 @@ public:
         while(l<=r)
         {
            int mid=(l+r)/2;
-           long long s=(long long)(mid*mid);
+           long long s=(1LL*mid*mid);
            if(s==x) return mid;
            else if(s<n) 
            { 
