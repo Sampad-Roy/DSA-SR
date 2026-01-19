@@ -1,26 +1,15 @@
-class Solution {
+class Solution 
+{
 public:
-    int mySqrt(int x) {  
-        int n=x;
-        if(n<2) return n;
-        int l=1,r=n/2;
-        int ans=0;
-        while(l<=r)
+    int mySqrt(int x) 
+    {
+        int i = 1, cnt = 0;
+        while(x > 0)
         {
-           int mid=(l+r)/2;
-           long long s=(1LL*mid*mid);
-           if(s==x) return mid;
-           else if(s<n) 
-           { 
-            ans=mid;
-            l=mid+1;
-           }
-           else 
-           {
-            r=mid-1;
-           }
-
+            x -= i;     
+            i += 2;    
+            cnt++;
         }
-       return ans;
+        return x < 0 ? cnt - 1 : cnt;
     }
 };
