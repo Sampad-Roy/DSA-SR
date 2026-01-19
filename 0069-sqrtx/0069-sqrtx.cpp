@@ -1,23 +1,26 @@
 class Solution {
 public:
-    int mySqrt(int x) {
-        if (x < 2) return x;
+    int mySqrt(int x) {  
+        int n=x;
+        if(n<2) return n;
+        int l=1,r=n/2;
+        int ans=0;
+        while(l<=r)
+        {
+           int mid=(l+r)/2;
+           long long s=(long long)(mid*mid);
+           if(s==x) return mid;
+           else if(s<n) 
+           { 
+            ans=mid;
+            l=mid+1;
+           }
+           else 
+           {
+            r=mid-1;
+           }
 
-        int left = 1, right = x / 2;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            long long square = (long long) mid * mid;
-
-            if (square == x) {
-                return mid;
-            } else if (square < x) {
-                left = mid + 1;
-            } else {
-                right = mid - 1;
-            }
         }
-
-        return right;        
+       return ans;
     }
 };
