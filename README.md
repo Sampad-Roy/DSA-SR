@@ -8,6 +8,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -15,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
+| [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
