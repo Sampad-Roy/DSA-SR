@@ -7,6 +7,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -16,6 +17,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -27,6 +29,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
@@ -49,6 +52,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
