@@ -19,9 +19,10 @@ public:
                     curr[j]+=pre[j];
                 }
             }
-            sort(curr.begin(),curr.end(),greater<int>());
+            // sort(curr.begin(),curr.end(),greater<int>());  akhane Sort korle to Col e change tai hobe na
             vector<int>ans=curr;
-        
+
+            sort(ans.begin(),ans.end(),greater<int>());        
             for(int k=0; k<c; k++)
             {
                int base=k+1;
