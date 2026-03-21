@@ -1,27 +1,27 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
+        string temp;
 
-        string a;
-        for(auto &u:s)
+
+        for(auto u:s)
         {
-            if(isalpha(u) || (u>='0' && u<='9'))
+            if((u>='a' && u<='z') || (u>='A' && u<='Z') || (u>='0' && u<='9'))
             {
-                a+=tolower(u);
+                temp+=tolower(u);
             }
         }
-       
-        string temp=a;
-        reverse(a.begin(),a.end());
-        for(int i=0; i<temp.size(); i++)
+        string temp1=temp;
+        reverse(temp.begin(),temp.end());
+        if(temp1==temp)
         {
-            if(temp[i]!=a[i])
-            {
-                return false;
-            }
+            return true;
+        }
+        else 
+        {
+            return false;
         }
 
-        return true;
-        
+
     }
 };
