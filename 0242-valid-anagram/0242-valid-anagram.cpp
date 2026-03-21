@@ -9,16 +9,21 @@ public:
         {
             return false;
         }
-
+        
+        unordered_map<char,int>mp1,mp2;
 
 
         for(int i=0; i<s.size(); i++)
         {
-            if(s[i]!=t[i])
-            {
-                return false;
-            }
+           mp1[s[i]]++;
+           mp2[t[i]]++;
         }
+
+        for(auto u:mp1)
+        {
+            if(mp1[u.first]!=mp2[u.first]) return false;
+        }
+
         return true;
         
     }
