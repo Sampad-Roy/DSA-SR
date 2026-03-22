@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sampad-Roy/DSA-SR/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sampad-Roy/DSA-SR/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -101,4 +102,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Sampad-Roy/DSA-SR/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
