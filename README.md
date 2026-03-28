@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -71,11 +72,13 @@
 | [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
