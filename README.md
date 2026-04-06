@@ -20,6 +20,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +136,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -142,4 +145,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
