@@ -1,17 +1,21 @@
 class Solution {
 public:
-    int climbStairs(int n) {
+    int climbStairs(int n) 
+    {  
+       
+      if(n==1) return 1;
+      if(n==2) return 2;
 
-       int x=0,y=1;
-       int ans=0;
-       for(int i=1; i<=n; i++)
-       {
-          ans=x+y;
-          x=y;
-          y=ans;
-       }
-
-       return ans;
+      int a=1,b=2;
+      int ans=0;
+      for(int i=0; i<n-2; i++)
+      {
+         int temp=(a+b);
+         ans=temp;
+         a=b;
+         b=temp;
+      }
+     return ans;
         
     }
 };
