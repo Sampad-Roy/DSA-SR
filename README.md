@@ -153,4 +153,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
