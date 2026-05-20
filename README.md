@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sampad-Roy/DSA-SR/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
@@ -49,6 +50,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sampad-Roy/DSA-SR/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Sampad-Roy/DSA-SR/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -63,6 +65,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
