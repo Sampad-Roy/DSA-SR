@@ -1,11 +1,25 @@
 class Solution {
 public:
+   struct VectorHash
+    {
+        size_t operator()(const vector<int>& v) const
+        {
+            size_t h = 0;
+
+            for (int x : v)
+            {
+                h ^= hash<int>()(x) + 0x9e3779b9 + (h << 6) + (h >> 2);
+            }
+
+            return h;
+        }
+    };
+
     int minGenerations(vector<vector<int>>& points, vector<int>& target) {
     
 
     int n=points.size();
-    set<vector<int>>all;
-
+    unordered_set<vector<int>, VectorHash> all;
     for(int i=0; i<n; i++)
     {
         if(points[i]==target)
