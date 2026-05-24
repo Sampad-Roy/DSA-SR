@@ -19,12 +19,14 @@ public:
                     int x=nums[l]%k;
 
                     if(l%2==0)
-                    {
-                        cost+=min((i-x+k)%k,(x-i+k)%k);
+                    {   
+                        int d=abs(x-i);
+                        cost+=min(d,k-d);
                     }
                     else
-                    {
-                        cost+=min((j-x+k)%k, (x-j+k)%k);
+                    {   
+                        int d=abs(x-j);
+                        cost+=min(d,k-d);
                     }
                 }
                 ans=min(ans,cost);
