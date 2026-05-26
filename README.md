@@ -138,6 +138,7 @@
 | [0141-linked-list-cycle](https://github.com/Sampad-Roy/DSA-SR/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0443-string-compression](https://github.com/Sampad-Roy/DSA-SR/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -145,6 +146,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
+| [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -175,10 +177,12 @@
 | [0141-linked-list-cycle](https://github.com/Sampad-Roy/DSA-SR/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sampad-Roy/DSA-SR/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
 <!---LeetCode Topics End-->
