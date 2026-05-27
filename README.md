@@ -84,6 +84,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sampad-Roy/DSA-SR/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Sampad-Roy/DSA-SR/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sampad-Roy/DSA-SR/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
@@ -174,6 +175,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Sampad-Roy/DSA-SR/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0138-copy-list-with-random-pointer](https://github.com/Sampad-Roy/DSA-SR/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Sampad-Roy/DSA-SR/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
