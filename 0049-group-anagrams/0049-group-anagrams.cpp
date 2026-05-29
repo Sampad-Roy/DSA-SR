@@ -2,21 +2,22 @@ class Solution {
 public:
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
 
-        int n=strs.size();
+        vector<vector<string>>ans;
         map<string,vector<string>>mp;
+        int n=strs.size();
         for(int i=0; i<n; i++)
         {
-           string temp=strs[i];
-           sort(temp.begin(),temp.end());
-           mp[temp].push_back(strs[i]);
 
-           
+            string temp=strs[i];
+            sort(temp.begin(),temp.end());
+            mp[temp].push_back(strs[i]);
+
         }
 
-        vector<vector<string>>ans;
+
         for(auto u:mp)
         {
-          ans.push_back(u.second);
+            ans.push_back(u.second);
         }
         return ans;
         
