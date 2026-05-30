@@ -1,48 +1,52 @@
 class Solution {
 public:
-
-    bool check(int fre[],int fre2[])
-    {
+   bool valid(int fre1[],int fre2[])
+   {
       for(int i=0; i<26; i++)
       {
-        if(fre[i]!=fre2[i])
+        if(fre1[i]!=fre2[i])
         {
             return false;
         }
       }
+
       return true;
 
-    }
 
+   }
 
     bool checkInclusion(string s1, string s2) {
 
-        int n1=s1.size();
-        int n2=s2.size();
-        int fre[26]={0};
-        for(int i=0; i<n1; i++)
-        {
-            fre[s1[i]-'a']++;
-        }
-    
-        for(int i=0; i<n2; i++)
-        {  
-           int fre2[26]={0}; 
-           int winidx=0,idx=i;
-           while(winidx<n1 && idx<n2)
-           {
+
+       int n1=s1.size();
+       int n2=s2.size();
+       
+       int fre1[26]={0};
+
+       for(int i=0; i<n1; i++)
+       {
+          fre1[s1[i]-'a']++;
+       }
+
+       for(int i=0; i<n2; i++)
+       { 
+         int fre2[26]={0};
+         int window=0,idx=i;
+         while(window<n1 && idx<n2)
+         {
             fre2[s2[idx]-'a']++;
-            winidx++,idx++;
-           }
+            window++,idx++;
+         }
+         
+         if(valid(fre1,fre2))
+         {
+            return true;
+         }
+
+       }
+       return false;
 
 
-           if(check(fre,fre2))
-           {
-             return true;
-           }
-
-        }
-        return false;
         
     }
 };
