@@ -16,6 +16,7 @@
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -109,6 +110,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
