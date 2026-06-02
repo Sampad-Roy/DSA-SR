@@ -13,9 +13,7 @@ public:
         int srt=max(x,waterStartTime[i]);
         y=min(y,srt+waterDuration[i]);
       }
-
       return y;
-
 
     }
 
@@ -26,9 +24,11 @@ public:
         int n=landStartTime.size();
         int m=waterStartTime.size();
 
-        int ans=0;
         //l->w
         int x=solve(n,m,landStartTime,landDuration,waterStartTime,waterDuration);
+        
+        //w->l
+
         int y=solve(m,n,waterStartTime,waterDuration,landStartTime,landDuration);
 
         return min(x,y);
