@@ -23,6 +23,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Sampad-Roy/DSA-SR/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
@@ -166,6 +167,7 @@
 | [0443-string-compression](https://github.com/Sampad-Roy/DSA-SR/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
@@ -178,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3923-minimum-generations-to-target-point](https://github.com/Sampad-Roy/DSA-SR/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 ## Trie
