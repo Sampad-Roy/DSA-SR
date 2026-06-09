@@ -117,6 +117,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -204,6 +205,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sampad-Roy/DSA-SR/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sampad-Roy/DSA-SR/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/Sampad-Roy/DSA-SR/tree/main/0138-copy-list-with-random-pointer/) | Medium |
@@ -215,6 +217,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Sampad-Roy/DSA-SR/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sampad-Roy/DSA-SR/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
