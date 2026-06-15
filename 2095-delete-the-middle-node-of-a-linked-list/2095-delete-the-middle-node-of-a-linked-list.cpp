@@ -28,11 +28,9 @@ public:
 
 
         if(n==0) return NULL;
-        
-        ListNode* mid=slow;
 
-        pre->next=mid->next;
-        mid->next=NULL;
+        pre->next=slow->next;
+        slow->next=NULL;
 
         return slow=head;
         
