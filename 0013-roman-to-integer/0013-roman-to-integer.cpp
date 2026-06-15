@@ -17,12 +17,12 @@ public:
           }
           if(next<curr && i-1>=0)
           {
-            ans+=(mp[s[i]]-mp[s[i-1]]);
+            ans+=(curr-next);
             i--;
           }
           else
           {
-            ans+=mp[s[i]];
+            ans+=curr;
           }
 
         }
