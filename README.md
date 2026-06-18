@@ -84,6 +84,7 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Sampad-Roy/DSA-SR/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3922-minimum-flips-to-make-binary-string-coherent](https://github.com/Sampad-Roy/DSA-SR/tree/main/3922-minimum-flips-to-make-binary-string-coherent/) | Medium |
 ## Dynamic Programming
@@ -209,6 +210,7 @@
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Sampad-Roy/DSA-SR/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3923-minimum-generations-to-target-point](https://github.com/Sampad-Roy/DSA-SR/tree/main/3923-minimum-generations-to-target-point/) | Medium |
 ## Trie
