@@ -23,6 +23,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sampad-Roy/DSA-SR/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -137,6 +138,7 @@
 | [0013-roman-to-integer](https://github.com/Sampad-Roy/DSA-SR/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -169,6 +171,7 @@
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
