@@ -82,6 +82,7 @@
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [0443-string-compression](https://github.com/Sampad-Roy/DSA-SR/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sampad-Roy/DSA-SR/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -123,6 +124,7 @@
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3923-minimum-generations-to-target-point](https://github.com/Sampad-Roy/DSA-SR/tree/main/3923-minimum-generations-to-target-point/) | Medium |
@@ -299,5 +301,6 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Sampad-Roy/DSA-SR/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
