@@ -25,6 +25,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Sampad-Roy/DSA-SR/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Sampad-Roy/DSA-SR/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sampad-Roy/DSA-SR/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -57,6 +58,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Sampad-Roy/DSA-SR/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sampad-Roy/DSA-SR/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -189,6 +191,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Sampad-Roy/DSA-SR/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sampad-Roy/DSA-SR/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
