@@ -19,6 +19,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sampad-Roy/DSA-SR/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -227,11 +228,13 @@
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
