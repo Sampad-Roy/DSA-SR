@@ -264,6 +264,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -272,6 +273,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Linked List
@@ -348,5 +350,10 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 <!---LeetCode Topics End-->
