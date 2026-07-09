@@ -39,6 +39,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -147,6 +148,7 @@
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3923-minimum-generations-to-target-point](https://github.com/Sampad-Roy/DSA-SR/tree/main/3923-minimum-generations-to-target-point/) | Medium |
@@ -188,6 +190,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -358,8 +361,10 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 <!---LeetCode Topics End-->
