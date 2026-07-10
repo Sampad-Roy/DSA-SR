@@ -40,6 +40,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -67,6 +68,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sampad-Roy/DSA-SR/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -118,6 +120,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -191,6 +194,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Heap (Priority Queue)
@@ -212,6 +216,7 @@
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Sampad-Roy/DSA-SR/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sampad-Roy/DSA-SR/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Queue
@@ -239,6 +244,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
@@ -335,6 +341,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
@@ -367,4 +374,5 @@
 | ------- | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 <!---LeetCode Topics End-->
