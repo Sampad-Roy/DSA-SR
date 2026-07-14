@@ -40,6 +40,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -121,6 +122,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -176,6 +178,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -382,4 +385,8 @@
 | [2685-count-the-number-of-complete-components](https://github.com/Sampad-Roy/DSA-SR/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 <!---LeetCode Topics End-->
