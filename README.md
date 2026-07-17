@@ -40,6 +40,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -156,6 +157,7 @@
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -167,6 +169,7 @@
 | [1732-find-the-highest-altitude](https://github.com/Sampad-Roy/DSA-SR/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Sampad-Roy/DSA-SR/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -179,6 +182,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -201,6 +205,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -366,6 +371,7 @@
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Sampad-Roy/DSA-SR/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -394,7 +400,12 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sampad-Roy/DSA-SR/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->
