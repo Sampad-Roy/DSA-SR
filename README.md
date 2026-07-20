@@ -19,6 +19,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1260-shift-2d-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sampad-Roy/DSA-SR/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -84,6 +85,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
+| [1260-shift-2d-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -282,6 +284,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
