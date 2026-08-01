@@ -17,6 +17,7 @@
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -140,6 +141,7 @@
 | [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -201,6 +203,7 @@
 | [0002-add-two-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0002-add-two-numbers/) | Medium |
 | [0013-roman-to-integer](https://github.com/Sampad-Roy/DSA-SR/tree/main/0013-roman-to-integer/) | Easy |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
@@ -373,6 +376,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sampad-Roy/DSA-SR/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,4 +463,8 @@
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
