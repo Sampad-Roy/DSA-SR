@@ -21,6 +21,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1260-shift-2d-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Sampad-Roy/DSA-SR/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -142,6 +143,7 @@
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -205,6 +207,7 @@
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -467,4 +470,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
