@@ -26,6 +26,7 @@
 | [1288-remove-covered-intervals](https://github.com/Sampad-Roy/DSA-SR/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -145,6 +146,7 @@
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -209,6 +211,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -471,4 +474,13 @@
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
