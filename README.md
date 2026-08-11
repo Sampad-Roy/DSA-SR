@@ -48,6 +48,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -134,6 +135,7 @@
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sampad-Roy/DSA-SR/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -197,6 +199,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Sampad-Roy/DSA-SR/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sampad-Roy/DSA-SR/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -359,6 +362,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/0014-longest-common-prefix/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Sampad-Roy/DSA-SR/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
