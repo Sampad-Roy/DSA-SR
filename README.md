@@ -134,6 +134,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sampad-Roy/DSA-SR/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
+| [0115-distinct-subsequences](https://github.com/Sampad-Roy/DSA-SR/tree/main/0115-distinct-subsequences/) | Hard |
 | [0125-valid-palindrome](https://github.com/Sampad-Roy/DSA-SR/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
@@ -174,6 +175,7 @@
 | [0022-generate-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Sampad-Roy/DSA-SR/tree/main/0042-trapping-rain-water/) | Hard |
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/Sampad-Roy/DSA-SR/tree/main/0115-distinct-subsequences/) | Hard |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1140-stone-game-ii/) | Medium |
