@@ -422,6 +422,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampad-Roy/DSA-SR/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/Sampad-Roy/DSA-SR/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -479,6 +480,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampad-Roy/DSA-SR/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -486,6 +488,7 @@
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Sampad-Roy/DSA-SR/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
