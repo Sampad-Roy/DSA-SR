@@ -270,6 +270,7 @@
 | [0070-climbing-stairs](https://github.com/Sampad-Roy/DSA-SR/tree/main/0070-climbing-stairs/) | Easy |
 | [0486-predict-the-winner](https://github.com/Sampad-Roy/DSA-SR/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Sampad-Roy/DSA-SR/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Sampad-Roy/DSA-SR/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -610,4 +611,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Sampad-Roy/DSA-SR/tree/main/1510-stone-game-iv/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Sampad-Roy/DSA-SR/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
