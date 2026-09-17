@@ -31,6 +31,7 @@
 | [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/Sampad-Roy/DSA-SR/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -189,6 +190,7 @@
 | [1140-stone-game-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1140-stone-game-ii/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/Sampad-Roy/DSA-SR/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1510-stone-game-iv](https://github.com/Sampad-Roy/DSA-SR/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Sampad-Roy/DSA-SR/tree/main/1563-stone-game-v/) | Hard |
@@ -212,6 +214,7 @@
 | [0239-sliding-window-maximum](https://github.com/Sampad-Roy/DSA-SR/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Sampad-Roy/DSA-SR/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampad-Roy/DSA-SR/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -232,6 +235,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Sampad-Roy/DSA-SR/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sampad-Roy/DSA-SR/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -321,6 +325,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sampad-Roy/DSA-SR/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
