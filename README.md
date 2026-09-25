@@ -96,6 +96,7 @@
 | [0037-sudoku-solver](https://github.com/Sampad-Roy/DSA-SR/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/Sampad-Roy/DSA-SR/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Sampad-Roy/DSA-SR/tree/main/0051-n-queens/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Greedy
@@ -153,6 +154,7 @@
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sampad-Roy/DSA-SR/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -239,6 +241,7 @@
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/0567-permutation-in-string/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -366,6 +369,7 @@
 | [0049-group-anagrams](https://github.com/Sampad-Roy/DSA-SR/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Sampad-Roy/DSA-SR/tree/main/0242-valid-anagram/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sampad-Roy/DSA-SR/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/Sampad-Roy/DSA-SR/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -425,6 +429,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/Sampad-Roy/DSA-SR/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -470,6 +475,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sampad-Roy/DSA-SR/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Sampad-Roy/DSA-SR/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
