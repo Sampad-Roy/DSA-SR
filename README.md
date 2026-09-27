@@ -158,6 +158,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Sampad-Roy/DSA-SR/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sampad-Roy/DSA-SR/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -436,6 +437,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Sampad-Roy/DSA-SR/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sampad-Roy/DSA-SR/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Sampad-Roy/DSA-SR/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -658,4 +660,8 @@
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Sampad-Roy/DSA-SR/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampad-Roy/DSA-SR/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sampad-Roy/DSA-SR/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
