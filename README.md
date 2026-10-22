@@ -96,6 +96,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/Sampad-Roy/DSA-SR/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3923-minimum-generations-to-target-point](https://github.com/Sampad-Roy/DSA-SR/tree/main/3923-minimum-generations-to-target-point/) | Medium |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/Sampad-Roy/DSA-SR/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
