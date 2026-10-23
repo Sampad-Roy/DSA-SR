@@ -82,6 +82,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sampad-Roy/DSA-SR/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sampad-Roy/DSA-SR/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -604,6 +605,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Sampad-Roy/DSA-SR/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sampad-Roy/DSA-SR/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Design
 | Problem Name | Difficulty |
