@@ -33,6 +33,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sampad-Roy/DSA-SR/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Sampad-Roy/DSA-SR/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1563-stone-game-v](https://github.com/Sampad-Roy/DSA-SR/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Sampad-Roy/DSA-SR/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -243,6 +244,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Sampad-Roy/DSA-SR/tree/main/1483-kth-ancestor-of-a-tree-node/) | Hard |
 | [1510-stone-game-iv](https://github.com/Sampad-Roy/DSA-SR/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Sampad-Roy/DSA-SR/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampad-Roy/DSA-SR/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1872-stone-game-viii/) | Hard |
@@ -320,6 +322,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sampad-Roy/DSA-SR/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1140-stone-game-ii/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampad-Roy/DSA-SR/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Sampad-Roy/DSA-SR/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Sampad-Roy/DSA-SR/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -348,6 +351,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Sampad-Roy/DSA-SR/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/Sampad-Roy/DSA-SR/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Sampad-Roy/DSA-SR/tree/main/1510-stone-game-iv/) | Hard |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Sampad-Roy/DSA-SR/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/Sampad-Roy/DSA-SR/tree/main/1563-stone-game-v/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sampad-Roy/DSA-SR/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/Sampad-Roy/DSA-SR/tree/main/1840-maximum-building-height/) | Hard |
