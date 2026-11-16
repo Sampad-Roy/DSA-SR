@@ -201,6 +201,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sampad-Roy/DSA-SR/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sampad-Roy/DSA-SR/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Sampad-Roy/DSA-SR/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Sampad-Roy/DSA-SR/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -519,6 +520,7 @@
 | [1441-build-an-array-with-stack-operations](https://github.com/Sampad-Roy/DSA-SR/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Sampad-Roy/DSA-SR/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sampad-Roy/DSA-SR/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/3498-reverse-degree-of-a-string/) | Easy |
