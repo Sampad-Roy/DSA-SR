@@ -373,6 +373,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sampad-Roy/DSA-SR/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/3360-stone-removal-game/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -530,6 +531,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/Sampad-Roy/DSA-SR/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/Sampad-Roy/DSA-SR/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Sampad-Roy/DSA-SR/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Sampad-Roy/DSA-SR/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Sampad-Roy/DSA-SR/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
